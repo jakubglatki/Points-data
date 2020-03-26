@@ -1,0 +1,11 @@
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\bin\Debug\netcoreapp3.1\program1.exe
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\bin\Debug\netcoreapp3.1\program1.deps.json
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\bin\Debug\netcoreapp3.1\program1.runtimeconfig.json
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\bin\Debug\netcoreapp3.1\program1.runtimeconfig.dev.json
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\bin\Debug\netcoreapp3.1\program1.dll
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\bin\Debug\netcoreapp3.1\program1.pdb
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\obj\Debug\netcoreapp3.1\program1.csprojAssemblyReference.cache
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\obj\Debug\netcoreapp3.1\program1.AssemblyInfoInputs.cache
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\obj\Debug\netcoreapp3.1\program1.AssemblyInfo.cs
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\obj\Debug\netcoreapp3.1\program1.dll
+D:\Users\Jakub Głatki\GitHub\Preprocessing-of-data-using-a-cache-aware-datastructure\Preprocessing of data using a cache-aware datastructure\program1\obj\Debug\netcoreapp3.1\program1.pdb
